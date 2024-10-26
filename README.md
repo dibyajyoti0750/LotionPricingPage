@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Live Demo]()
+[Live Demo](https://dibyajyoti0750.github.io/LotionPricingPage/)
 
 ## Features
 
